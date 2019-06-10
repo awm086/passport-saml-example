@@ -19,13 +19,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gbraad/passport-saml-example.git"
+    "url": "git@github.com:awm086/passport-saml-example.git"
   },
   "scripts": {
     "start": "nodemon app.js",
     "test": "",
     "postinstall": "bower install"
   },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "dependencies": {
     "body-parser": "1.15.1",
     "cookie-parser": "1.4.3",
